@@ -1,0 +1,14 @@
+# Ignorar a virtual environment
+venv/
+
+# Ignorar a pasta de arquivos
+Arquivos/
+
+# Ignorar outros arquivos ou pastas geradas automaticamente
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.spec
+dist/
+build/
